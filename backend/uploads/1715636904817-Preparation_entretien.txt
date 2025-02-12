@@ -1,0 +1,33 @@
+Question: 
+ 1- Présente toi 
+
+Projet académique: 
+Next question: 
+ 2- Quel est ton projet professionnel (Le métier que je veux exercer plus tard) 
+=> Penser à une fois le projet professionnel donné empiété sur le projet académique (qui décrit le parcours adopté pour atteindre son projet professionnel)
+
+ 3- Que comptes tu faire après tes études ?
+Après mes études, je compte rentrer dans mon pays pour rentrer mettre mes services 
+
+ 4- Que comptes tu faire au cas ou le process ne fonctionne pas ?
+Je prendrais le temps de vérifier ce qui n'a pas marché et revenir la prochaine fois avec un dossier plus complet.
+
+ 5- Pourquoi le choix de la france pour ses études en Data et pas d'école au Cameroun ?
+
+ 6- Pourquoi avoir choisi la France ?
+J'ai choisi la France pour 3 raisons: 
+	- la langue, mon intégration sera plutôt facile
+	- la qualité de la formation, l'une des raisons qui motive mon choix
+	- la présence de la famille et des amis est la chose qui faciliteront mon intégration et mon épanouissement
+	
+ 7- Comment seront financés vos études ?
+Mes études seront financés  par ma soeur pour ce qui sera de ma scolarité et déposera une caution pour moi et me fournira un hébergement.
+
+ 8- As tu une idée du coût de la vie d'un étudiant en France ?
+D'après mes recherches, pour un étudiant le coût s'élève à 615€ et la caution qui a été déposée me permettra de couvrir ça.
+
+
+Points importants: 
+- Eviter de justifier avant d'avoir repondu à la question mais plutôt repondre à la question et penser faire un petit commentaire.
+- Montrer que tes études actuelles s'intègrent bien dans ton projet professionnel.
+- Faire intervenir des keywords dans son discours (python, base de données, traitement de l'information ...etc...).
